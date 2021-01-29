@@ -18,7 +18,7 @@ I am interested in efficient machine learning that leverage the inductive biases
 
 Contact
 ======
-If you're interested in [Consulting](/teaching/consult.md) or [Tutoring](/teaching/tutoring.md), feel free to [contact me](/files/contact.md).
+If you're interested in [Consulting](/teaching/consult) or [Tutoring](/teaching/tutoring), feel free to [contact me](/files/contact.md).
 
 
 More About Me
