@@ -1,7 +1,11 @@
 ---
 title: "Tutoring"
 collection: teaching
+type: "Undergraduate tutoring"
+venue: "University of California, Los Angeles"
+location: "Los Angeles, CA (Virtual)"
 permalink: /teaching/tutoring
+date: 2020-01-01
 ---
 
 **Now Offering Online Tutoring Over Zoom!**
