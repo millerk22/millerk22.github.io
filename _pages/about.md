@@ -9,7 +9,7 @@ redirect_from:
 published: true
 ---
 
-I am a rising 4th year Ph.D. candidate in Applied Mathematics at [UCLA](https://www.math.ucla.edu/), studying graph-based machine learning methods with [Dr. Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). My undergraduate degree was in Applied and Computational Mathematics from [Brigham Young University, Provo](https://www.byu.edu/). 
+I am a 4th year Ph.D. candidate in Applied Mathematics at [UCLA](https://www.math.ucla.edu/), studying graph-based machine learning methods with [Dr. Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). My undergraduate degree was in Applied and Computational Mathematics from [Brigham Young University, Provo](https://www.byu.edu/). 
 
 Currently, I am supported by the DOD's National Defense Science and Engineering Graduate (NDSEG) Fellowship for the remainder of my Ph.D. I was previously supported by the NRT MENTOR Fellowship for the 2018-2019 academic year (Fall 2018- Summer 2019). 
 
