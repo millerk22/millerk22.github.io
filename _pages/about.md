@@ -26,4 +26,4 @@ More About Me
 
 Besides a passion for machine learning and mathematics, I love my growing family. I also enjoy watching college basketball and football, bouldering, running, and having meaningful discussions with family and friends.
 
-![fam_pic.JPG]({{site.baseurl}}/images/fam_pic.JPG){:style="margin: auto; display: block; width: 50%"}
+![fam-pic.JPG]({{site.baseurl}}/images/fam-pic.JPG){:style="margin: auto; display: block; width: 50%"}
