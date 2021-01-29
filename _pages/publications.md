@@ -14,11 +14,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-
-  <ul>
-  {% include publication-item.html %}
-  </ul>
-
-  {% endif %}
-{% endfor %}
