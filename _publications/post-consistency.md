@@ -5,7 +5,7 @@ permalink: /publication/post-consistency
 excerpt: 
 date: 2020-01-01
 type: "manuscript"
-author: "Andrea L. Bertozzi, Bamdad Hosseini, Hao Li, <b>Kevin Miller</b>, and Andrew M. Stuart"
+authors: "Andrea L. Bertozzi, Bamdad Hosseini, Hao Li, <b>Kevin Miller</b>, and Andrew M. Stuart"
 venue: 
 arxivurl: "https://arxiv.org/abs/2007.12809"
 ---
