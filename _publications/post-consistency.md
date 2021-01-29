@@ -8,3 +8,5 @@ author: "Andrea L. Bertozzi, Bamdad Hosseini, Hao Li, <b>Kevin Miller</b>, and A
 venue: 
 arxivurl: "https://arxiv.org/abs/2007.12809"
 ---
+
+[Download paper here]({{site.url}}/files/publications/paper2.pdf)
