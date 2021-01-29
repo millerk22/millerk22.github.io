@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-__CV currently being edited, please see my [Resume](/items/KevinMillerResume-2021.pdf)__
+__CV currently being edited, please see my [Resume](/files/KevinMillerResume-2021.pdf)__
 
 Education
 ======
