@@ -5,6 +5,7 @@ type: "Undergraduate tutoring"
 venue: "University of California, Los Angeles"
 location: "Los Angeles, CA (Virtual)"
 permalink: /teaching/tutoring
+excerpt: "Looking for help with your undergraduate courses at UCLA (or other schools/universities)? I'm happy to help."
 date: 2020-01-01
 ---
 
