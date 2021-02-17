@@ -13,7 +13,7 @@ I am a 4th year Ph.D. candidate in Applied Mathematics at [UCLA](https://www.mat
 
 Currently, I am supported by the DOD's National Defense Science and Engineering Graduate (NDSEG) Fellowship for the remainder of my Ph.D. I was previously supported by the NRT MENTOR Fellowship for the 2018-2019 academic year (Fall 2018- Summer 2019). 
 
-I am interested in efficient machine learning that leverage the inductive biases of graph-based learning. I have been developing effective and scalable methods for active learning in graph-based semi-supervised classification problems. 
+I am interested in efficient machine learning algorithms that leverage the inductive biases of graph-based learning. I have been developing effective and scalable methods for active learning in graph-based semi-supervised classification problems. 
 
 
 Contact
