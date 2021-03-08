@@ -10,4 +10,4 @@ venue: 'ICML Workshop on Real World Experiment Design and Active Learning'
 arxivurl: 'https://arxiv.org/abs/2007.11126'
 ---
 
-[Download paper here]({{site.url}}/files/publications/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/2007.11126)
