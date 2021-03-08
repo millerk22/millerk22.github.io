@@ -11,5 +11,5 @@ paperurl: 'https://www.math.ucla.edu/~bertozzi/papers/ICASSP2017-final.pdf'
 ---
 
 
-[Download paper here]({{site.url}}/files/publications/paper1.pdf)
+[Download paper here](https://www.math.ucla.edu/~bertozzi/papers/ICASSP2017-final.pdf)
 
