@@ -9,4 +9,4 @@ excerpt:
 arxivurl: 'https://arxiv.org/abs/1705.07366'
 ---
 
-[Download paper here]({{site.url}}/files/publications/paper3.pdf)
+[Download paper here](https://arxiv.org/abs/1705.07366)
