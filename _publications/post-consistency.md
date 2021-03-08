@@ -10,4 +10,4 @@ venue:
 arxivurl: "https://arxiv.org/abs/2007.12809"
 ---
 
-[Download paper here]({{site.url}}/files/publications/paper2.pdf)
+[Download paper here](https://arxiv.org/abs/2007.12809)
