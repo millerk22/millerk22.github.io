@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: Talks and presentations
 permalink: /talks/
 author_profile: true
+published: true
 ---
 
 {% if site.talkmap_link == true %}
@@ -12,5 +13,5 @@ author_profile: true
 {% endif %}
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-single.html %}
 {% endfor %}
