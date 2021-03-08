@@ -2,10 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-   - title: "Talks"
+  
+  - title: "Talks"
     url: /talks/
-    
+
   - title: "Research"
     url: /portfolio/
 
@@ -14,4 +14,3 @@ main:
         
   - title: "CV/Resume"
     url: /cv/
-    
