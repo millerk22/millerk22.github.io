@@ -48,14 +48,3 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2 id="inprogress">In Progress</h2>
-{% for post in site.publications reversed  %}
-  {% if post.type == "inprogress" %}
-
-
-  <ul>
-  {% include publication-item.html %}
-  </ul>
-
-  {% endif %}
-{% endfor %}
