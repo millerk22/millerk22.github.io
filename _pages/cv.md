@@ -10,4 +10,4 @@ published: true
 
 {% include base_path %}
 
-__Click here to see my [Resume](/files/KevinMillerResume-2021.pdf)__
+__Click here to see my [Resume](/files/KevinMillerResume2021.pdf)__
