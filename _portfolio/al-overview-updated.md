@@ -16,7 +16,7 @@ Generally, active learning methods favor one or the other of these properties. I
 
 As a toy example, consider the following "Checkerboard 3" dataset, whose ground truth labeling is shown below in Figure 1. *Representative* points would lie in the interior of the respective squares while *informative* points would lie on the decision boundary of the current classifier. **A "good" active learner will generally first explore the clustering structure and then exploit the learned decision boundary information.** 
 
-![](/files/c3-gt-for-website.png)
+![c3-gt.JPG](/files/c3-gt-for-website.png){:style="margin: auto; display: block; width: 25%"}
 
 The following animation shows the active learning process using my graph-based model change acquisition function..
 
