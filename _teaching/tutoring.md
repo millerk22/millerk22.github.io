@@ -26,7 +26,7 @@ I am available to tutor any high school math subjects, as well as SAT/ACT math. 
 
 
 ## Contact Me!
-Want to know more? Contact me through [this form]({{site.baseurl}}/_pages/contact.md) or email me at [millerk22 [At] g [Dot] ucla [Dot] edu](mailto:millerk22@g.ucla.edu).
+Want to know more? Contact me through [this form](/_pages/contact.md) or email me at [millerk22 [At] g [Dot] ucla [Dot] edu](mailto:millerk22@g.ucla.edu).
 
 
 ## Background in Tutoring
