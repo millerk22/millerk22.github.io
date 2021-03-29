@@ -1,0 +1,12 @@
+---
+title: "Spectral Clustering in Directed Networks"
+collection: talks
+type: "Poster"
+permalink: /talks/2016-03-22-byu-src
+venue: "BYU Spring Research Conference, 2016"
+date: 2016-03-19
+---
+
+Won prize for best presentation of my session of the BYU Spring Research Conference. Presented research on estimating the latent number of clusters in directed networks for use in spectral clustering. The sequence of smallest eigenvalues of the associated graph Laplacian matrix that are real turned out to be a good estimator for the latent clustering structure. 
+
+See my slides here.
