@@ -1,7 +1,7 @@
 ---
 title: "Active Learning Overview"
 excerpt: "I provide my thoughts and main takeaways for active learning."
-collection: portfolio
+collection: 
 ---
 
 
