@@ -14,10 +14,18 @@ The main question for us in this active learning paradigm is **how to select tha
 
 Generally, active learning methods favor one or the other of these properties. I want to create methods that naturally combine and balance the desiderata of exploration and exploitation. 
 
-As a toy example, consider the following "Checkerboard 3" dataset, whose ground truth labeling is shown below in Figure 1. *Representative* points would lie in the interior of the respective squares while *informative* points would lie on the decision boundary of the current classifier. **A "good" active learner will generally first explore the clustering structure and then exploit the learned decision boundary information.** 
+## Demo Visualization
+
+As a toy example, consider the following "Checkerboard 3" dataset, whose ground truth labeling is shown below in Figure 1. This dataset is comprised of 3,000 point sampled uniformly at random from the unit square. The classification of the points in the dataset are determined via the 3 x 3 grid structure shown in the figure of the ground truth.  *Representative* points would lie in the interior of the respective squares while *informative* points would lie on the decision boundary of the current classifier. **A "good" active learner will generally first explore the clustering structure and then exploit the learned decision boundary information.** 
 
 ![c3-gt.JPG]({{site.baseurl}}/files/c3-gt-for-website.png){:style="margin: auto; display: block; width: 25%"}
 
-The following animation shows the active learning process using my graph-based model change acquisition function..
+The following animation shows the active learning process using my graph-based model change acquisition function; the left panel shows the *current classifier's classification* given the current labeled data, while the right panel shows a *heatmap of the acquisition function*. In the heatmap, *lighter* colors correspond to *higher* acquisition function value (i.e. more "valuable" points to label).
 
 ![](/files/al-demo.png)
+
+Notice that early on in the iterations, when we have limited labeled data, the criterion **explores** the extent of the data domain (i.e. queries points in unexplored regions of the unit square). Then, after a few iterations, the criterion focuses on the the boundaries between squares of different classes; i.e. **exploits** the observed labeled data when there is enough information about the extent of the data domain.
+
+## Takeaways
+
+While this toy dataset is not realistic, I think the visual provides a useful demonstration for gaining intuition about the balance between exploration and exploitation. The principles displayed here generalize to real-world and empirical datasets: we must first explore the extent of the clustering structure and data domain and then exploit the current information for refining the classifier's decision boundaries. Many active learning criterion do not naturally transition automatically like how the presented model change acquisition function here does. I want to continue to explore ways in which we can use this model change acquisition function in other semi-supervised learning models besides the simple graph-based models I have previously analyzed. 
