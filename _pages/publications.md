@@ -26,6 +26,10 @@ author_profile: true
 
   {% if forloop.last %}
   </ul>
+  {% else %}
+  {% if this_year != next_year %}
+  </ul>
+  <h2 id="{{next_year}}">{{next_year}}</h2>
   <ul>
   {% endif %}
   {% endif %}
