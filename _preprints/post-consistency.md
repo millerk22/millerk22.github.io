@@ -7,7 +7,7 @@ type: "manuscript"
 authors: "Andrea L. Bertozzi, Bamdad Hosseini, Hao Li, <b>Kevin Miller</b>, and Andrew M. Stuart"
 venue: 
 arxivurl: "https://arxiv.org/abs/2007.12809"
-date: 02-08-2021
+date: 27-02-2021
 ---
 
 Submitted to Inverse Problems.
