@@ -12,7 +12,6 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed  %}
-{% unless post.type == "manuscript" %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
@@ -34,19 +33,13 @@ author_profile: true
   <ul>
   {% endif %}
   {% endif %}
-{% endunless %}
 {% endfor %}
 
 
 <h2 id="preprints">Preprints</h2>
-{% for post in site.publications reversed  %}
-  {% if post.type == "manuscript" %}
-
-
+{% for post in site.preprints reversed  %}
   <ul>
   {% include publication-item.html %}
   </ul>
-
-  {% endif %}
 {% endfor %}
 
