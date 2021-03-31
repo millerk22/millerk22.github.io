@@ -1,6 +1,6 @@
 ---
 title: "Posterior Consistency of Semi-Supervised Regression on Graphs"
-collection: publications
+collection: preprints
 permalink: /preprints/post-consistency
 excerpt: 
 type: "manuscript"
